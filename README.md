@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhanya Menon @signorinadhanyamenonmba
-- 💊 I woke up at https://g.dev/mmedhanyamenonmba
+- 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
 - 🌱 I’m currently learning to be a rocket scientist.
 - 💞️ I’m looking to collaborate on financial modelling projects.
