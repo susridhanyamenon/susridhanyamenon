@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dhanya Menon @signorinadhanyamenonmba
+- 🎒 I'm a data scientist.
 - 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
 - 🌱 I’m currently learning to be a rocket scientist.
