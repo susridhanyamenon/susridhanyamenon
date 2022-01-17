@@ -3,7 +3,7 @@
 - 🏅 I graduated business school with 💯 percentile.
 - 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
-- 🌱 I’m currently learning to be a rocket scientist.
+- 🌱 I’m currently learning to deploy my darq powers in banking.
 - 💞️ I’m looking to collaborate on financial data modelling projects.
 - 📫 Reach me at my yahoo inbox binibinidhanyamenon@yahoo.com
 
