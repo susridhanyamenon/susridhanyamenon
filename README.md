@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dhanya Menon @signorinadhanyamenonmba
-- 🎒 I'm a data scientist at the crossroad of finance and technology.
+- 💡 I'm a data scientist at the crossroad of finance and technology.
+- 🎓 I earned my high school diploma in Mathematics and Computer Science.
 - 🏅 I graduated business school with 💯 percentile.
 - 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
