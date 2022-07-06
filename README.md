@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Dhanya Menon @signorinadhanyamenonmba
-- 💡 I'm a data scientist at the crossroad of finance and technology.
+- 💡 I'm a data scientist working on the largest amount of all electronic data, financial.
 - 💃 I'm known to be a curious player, creative investigator, no-nonsense programmer, business savvy decision maker and tireless searcher.
 - 🎓 I earned my high school diploma in Mathematics and Computer Science.
 - 🏅 I graduated business school with 💯 percentile.
 - 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
-- 🌱 I’m currently learning to deploy my darq powers in banking.
+- 🌱 I’m currently learning to adapt to one to moment marketing.
 - 💞️ I’m looking to collaborate on financial data modelling projects.
 - 📫 Reach me at my yahoo inbox binibinidhanyamenon@yahoo.com
 
