@@ -6,7 +6,7 @@
 - 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
 - 🌱 I’m currently learning to adapt to one to moment marketing.
-- 💞️ I’m looking to collaborate on financial data modelling projects.
+- 💞️ I love the challenges that come with a new project and am looking to collaborate on financial data modelling projects.
 - 📫 Reach me at my yahoo inbox binibinidhanyamenon@yahoo.com
 
 <!---
