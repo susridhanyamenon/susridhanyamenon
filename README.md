@@ -6,7 +6,7 @@
 - 💊 I wake up at https://g.dev/mmedhanyamenonmba
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
 - 🌱 I’m currently learning to adapt to one to moment marketing.
-- 💞️ I love to strive to do and be more with the challenge of a new product and all the possibilities that come with it.
+- 💞️ I love to strive to do and be more with the challenge of developing a new product and all the possibilities that come with it.
 - 📫 I read my emails at my yahoo inbox binibinidhanyamenon@yahoo.com
 
 <!---
