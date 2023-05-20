@@ -9,7 +9,7 @@
 - 💞️ I love to strive to do and be more with the challenge of developing a new product and all the possibilities that come with it.
 - 📫 I read my emails at my yahoo inbox binibinidhanyamenon@yahoo.com
 
-https://github-readme-stats.vercel.app/api?username=signorinadhanyamenonmba&show_icons=true
+
 
 <!---
 signorinadhanyamenonmba/signorinadhanyamenonmba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
