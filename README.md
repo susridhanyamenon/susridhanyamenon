@@ -5,8 +5,8 @@
 - 🏅 I graduated business school with 💯 percentile.
 - 💊 I wake up at https://g.dev/mmedhanyamenon
 - 👀 I’m interested in problem solving, building things and making work flows more efficient.
-- 🌱 I’m currently learning to adapt to one to moment marketing.
-- 💞️ I love to strive to do and be more with the challenge of developing a new product and all the possibilities that come with it.
+- 🌱 I’m currently learning to digitise the process of market information extraction from a combination of spreadsheets and manual workflows to cloud based artificially intelligent designs based on real time data on assets.
+- 💞️ I love to strive to do and be more with the challenge of a new project and all the possibilities that come with it.
 - 📫 I read my emails at my yahoo inbox binibinidhanyamenon@yahoo.com
 
 
