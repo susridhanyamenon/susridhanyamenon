@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhanya Menon @missydhanyamenon
+- 👋 Hi, I’m Dhanya Menon @senoritadhanyamenon
 - 💡 I'm a data scientist busy building my startup in financial research.
 - 💃 I'm known to be a curious player, creative investigator, no-nonsense programmer, business savvy decision maker and tireless searcher.
 - 🎓 I earned my high school diploma in Mathematics and Computer Science.
