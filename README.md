@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhanya Menon @susridhanyamenon
-- 💡 I'm a data scientist busy building my startup in financial research.
+- 💡 I'm a data scientist busy building my startup in economic and financial policy research.
 - 🌟 I'm known to be a curious player, creative investigator, no-nonsense programmer, business savvy decision maker and tireless searcher.
 - 🎓 I earned my national senior secondary school certificate in Computer Science and Mathematics.
 - 🏅 I graduated business school with 💯 percentile specialising in Marketing and Finance.
